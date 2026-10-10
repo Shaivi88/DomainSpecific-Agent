@@ -1,8 +1,0 @@
-.DS_Store
-*/.DS_Store
-docs/
-.env 
-tests/
-.claude/
-.superpowers/
-__pycache__/
