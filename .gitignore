@@ -5,4 +5,4 @@ docs/
 tests/
 .claude/
 .superpowers/
-
+__pycache__/
